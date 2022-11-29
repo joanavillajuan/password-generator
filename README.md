@@ -4,4 +4,6 @@ This week we are given a stater code for generating passwords. The challenge is 
 
 ### Screenshot
 
+![password generator](images/password-generator.png)
+
 #### Deployment Link 

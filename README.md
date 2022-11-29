@@ -7,3 +7,5 @@ This week we are given a stater code for generating passwords. The challenge is 
 ![password generator](images/password-generator.png)
 
 #### Deployment Link 
+
+https://joanavillajuan.github.io/password-generator/
